@@ -1,0 +1,4 @@
+VPstarterSettings = {}
+VPstarterSettings.profile = "" -- 
+VPstarterSettings.keybindAllow = true 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ProxyFrenzy/VulnerablePoint/refs/heads/main/VPLUA'))()
